@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608549776 source:c:\users\marin\onedrive\escritorio\ej diccionario\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
