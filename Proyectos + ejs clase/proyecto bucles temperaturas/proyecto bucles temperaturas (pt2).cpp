@@ -41,9 +41,6 @@ int main(){
         cout << endl << endl;
         cin >> frec;
 
-        /* He tenido que repetir código porque los valores de las variables bool
-        no parecían asignarse dentro del bucle.*/
-
         frec_int = frec == int(frec);
         frec_may1 = frec > 0;
     }
